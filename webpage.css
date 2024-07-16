@@ -104,9 +104,11 @@ h1{
 }
 .img{
     margin-left:-14px;
+    margin-right: -14px;
 }
 .image{
     margin-left: -15px;
+    margin-right: -15px;
 }
 .container5{
     padding-bottom: 20px;
