@@ -62,9 +62,6 @@ h1{
     font-size: 25px;
 }
 .container3-d{
-    
-   
-   
     margin-left: 140px;
     margin-top: 40px;
 
@@ -92,21 +89,21 @@ h1{
 }
 .row-third{
     background-image: url(https://tse1.mm.bing.net/th?id=OIP.pD1Du_ibAQdUzCiart7KzwHaEm&pid=Api&P=0&h=180);
-   
     background-repeat: no-repeat;
     background-size: cover;
 }
 .header{
-    padding-top: 68px;
-    
+    padding-top: 68px; 
 }
 .container4{
-   
     margin-top: -18px;
     margin-left: 100px;
     margin-bottom: 30px;
     padding-bottom: 20px;
     border:1px solid black;
+}
+.img{
+    margin-left:-14px;
 }
 .image{
     margin-left: -15px;
@@ -122,7 +119,6 @@ h1{
 .button2{
     border: 3px solid red;
     padding: 10px 20px 10px 20px;
-    
     color: white;
     border-radius: 4px;
     background-color: blue;
@@ -131,7 +127,6 @@ h1{
  .button2 :hover{
      border: 3px solid red;
     padding: 10px 20px 10px 20px;
-   
     color: blue;
     border-radius: 4px;
     background-color: white;
@@ -151,19 +146,14 @@ h1{
 }
 
 .container7{
-   
     border:1px solid black;
     padding: 40px 20px 25px 120px;
 }
 .container7-a{
-    
-    
     border:1px solid black;
     padding: 40px 20px 25px 50px;
 }
 .container7-b{
-    
-    
     border:1px solid black;
     padding: 40px 50px 25px 20px;
 }
